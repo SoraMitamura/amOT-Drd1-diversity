@@ -1,0 +1,2167 @@
+{
+  "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+  "total": 268,
+  "available": 156,
+  "missing": 112,
+  "source": "m5.go.bp.v2026.1.Mm.symbols.gmt",
+  "source_sha256": "fd720ba92a3131a1596409f4b642a1a5950392fa51b45055b810215082e6f0c1",
+  "records": [
+    {
+      "gene": "Abca13",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Abca13",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Actb",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Actg1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Amph",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Amph",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ap1g1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ap1s2",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Ap1s2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ap2a1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Ap2a1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ap2a2",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ap2b1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ap2m1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ap2s1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ap3b2",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ap3d1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Ap3d1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ap3m2",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ap3s1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Ap3s1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ap3s2",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Arf6",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Arhgdia",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Arhgdia",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Arpc3",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Arpc3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Atg7",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Atp2a2",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Atp6ap1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Atp6ap2",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Atp6ap2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Atp6v0a1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Atp6v0a4",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Atp6v0c",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Atp6v0d1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Atp6v0e2",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Atp6v1a",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Atp6v1b1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Atp6v1b2",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Atp6v1c1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Atp6v1c1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Atp6v1d",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Atp6v1e1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Atp6v1f",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Atp6v1g1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Atp6v1g1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Atp6v1g2",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Atp6v1g2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Atp6v1g3",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Atp6v1h",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Atp8a1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Atp8a1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Bcl2l1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Bin1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Bltp1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Braf",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Brsk1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Bsn",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Bsn",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Btbd8",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Btbd9",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "C9orf72",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cacna1a",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Cacna1a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cacna1b",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Cacna1b",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cacna1d",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Cacna1d",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cacna1e",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Cacna1e",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cacnb4",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Cacnb4",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cadps",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Cadps",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cadps2",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Cadps2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Calm1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Calm2",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Calm2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Calm3",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Camk2a",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Camk2a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Canx",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Canx",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Capn2",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Capn2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cask",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Cask",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Casp3",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Casp3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cdh2",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Cdh2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cdk5",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cdk5r1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Cdk5r1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Clcn3",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Clta",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cltb",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Cltb",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cltc",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cplx1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Cplx1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cplx2",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Cplx2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cplx3",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Cplx3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cplx4",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cspg5",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Cspg5",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ctbp1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ctbp2",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Ctbp2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ctnnb1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Ctnnb1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cxadr",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Cxadr",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cyfip1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Cyfip1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ddc",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Ddc",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Dennd1a",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Dgkq",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Dgkq",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Diaph1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Dnajc5",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Dnajc6",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Dnajc6",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Dnm1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Dnm1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Dnm1l",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Dnm2",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Dnm3",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Dnm3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Doc2a",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Doc2a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Doc2b",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Doc2b",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Doc2g",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Doc2g",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Dtnbp1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Dtnbp1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Dvl1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Efr3a",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Efr3a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Eps15l1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Erc1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Erc1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Erc2",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Erc2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Fbxl20",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Fbxo45",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Fcho2",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Fgf14",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Fgf14",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Fmr1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Git1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Git2",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gpr151",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Gpr151",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Grik5",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gripap1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Grn",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Grn",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Htr1b",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Htr1b",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Htr1d",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Htr1d",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Itsn1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Itsn1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Itsn2",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Itsn2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Kcnc3",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Kcnc3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Kcnh1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Kcnh1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Lpar1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Lpar1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Lrrk2",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Lrrk2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Magi2",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Magi2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mff",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mx2",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mylk",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Mylk",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Myo5b",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Myo5b",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Napa",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Napb",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Napb",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ncs1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Ncs1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Nlgn1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Nlgn1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Nlgn2",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Nlgn3",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Nlgn3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Npy",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Npy",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Npy1r",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Npy1r",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Nrxn1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Nrxn1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ophn1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Ophn1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Osbpl2",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Otof",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Otof",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "P2rx1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "P2rx2",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "P2rx2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "P2rx7",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "P2rx7",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "P2ry1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "P2ry1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "P2ry2",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "P2ry4",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Pacsin1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Pacsin1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Park7",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Pcdh17",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Pcdh17",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Pclo",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Pclo",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Pfn2",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Picalm",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Pik3c3",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Pip5k1c",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Plaa",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Pld1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Pld1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Pls3",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Pls3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ppfia2",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Ppfia2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ppfia3",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Ppfia3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ppp3ca",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Ppp3ca",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ppp3cb",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ppp3cc",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ppp3r1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Prepl",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Prkaca",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Prkar1b",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Prkar1b",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Prkca",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Prkca",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Prkcb",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Prkcb",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Prkcg",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Prkcg",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Prkn",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Prkn",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Prrt2",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Psen1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Pten",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Pten",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Rab11b",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Rab27b",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Rab27b",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Rab3a",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Rab3b",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Rab3b",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Rab3gap1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Rab5a",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Rab7",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Rac1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Rap1a",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Rap1b",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Rapgef4",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Rapgef4",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Reln",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Reln",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Rimbp2",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Rimbp2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Rims1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Rims1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Rims2",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Rims2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Rims3",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Rims3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Rims4",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Rims4",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Rock1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Rph3a",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Rph3a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Rph3al",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Rph3al",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Scamp5",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Scrib",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Scrn1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Scrn1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Septin5",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sgip1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Sgip1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sh3gl1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sh3gl2",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Sh3gl2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Slc10a4",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Slc10a4",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Slc17a5",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Slc17a5",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Slc17a6",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Slc17a6",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Slc17a7",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Slc17a7",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Slc17a8",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Slc17a8",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Slc18a1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Slc18a2",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Slc18a2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Slc18a3",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Slc18a3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Slc2a4",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Slc32a1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Slc32a1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Slc4a8",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Slc4a8",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Slc9a6",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Snap23",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Snap25",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Snap25",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Snap29",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Snap47",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Snap47",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Snap91",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Snap91",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Snapin",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Snca",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Snca",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sncb",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Sncb",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sncg",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Sncg",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Snx9",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Snx9",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sptbn2",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Sptbn2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ston1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ston2",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Ston2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Stx11",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Stx11",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Stx19",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Stx1a",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Stx1a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Stx1b",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Stx1b",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Stx2",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Stx4a",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Stxbp1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Stxbp1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Stxbp2",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Stxbp3",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Stxbp3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Stxbp5",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Stxbp5l",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Stxbp5l",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sv2a",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Sv2a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sv2b",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Sv2b",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sv2c",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Sv2c",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Syde1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Syn1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Syn1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Syn2",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Syn2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Syn3",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Syn3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Syndig1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Syndig1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Syngr3",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Syngr3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Synj1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Synj1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Synj2",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Synj2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Syp",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Syp",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Syt1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Syt1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Syt10",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Syt10",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Syt11",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Syt11",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Syt12",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Syt12",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Syt13",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Syt13",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Syt2",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Syt2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Syt4",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Syt4",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Syt5",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Syt5",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Syt7",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Syt7",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Syt8",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Syt9",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Syt9",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Tbc1d24",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Th",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Th",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Tor1a",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Tprg1l",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Trim9",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Trim9",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Unc13a",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Unc13a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Unc13b",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Unc13b",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Unc13c",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Unc13c",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Vamp1",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Vamp1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Vamp2",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Vamp4",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Vps18",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Wnt7a",
+      "category": "GOBP_SYNAPTIC_VESICLE_CYCLE",
+      "in_expression_panel": true,
+      "expression_column": "Wnt7a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    }
+  ],
+  "exclusion_panel": [
+    "Drd1",
+    "Tac1",
+    "Pdyn",
+    "Drd2",
+    "Adora2a",
+    "Penk",
+    "Gpr6",
+    "Gpr52",
+    "Sp9"
+  ],
+  "excluded_markers": [],
+  "before_exclusion": 156
+}

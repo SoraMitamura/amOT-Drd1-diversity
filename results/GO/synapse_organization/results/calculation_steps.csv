@@ -1,0 +1,10 @@
+step,description
+1,"Within each group, average supplied log2 values across cells; all sections pooled."
+2,Rank the 510 available GO-category genes within each mean profile; average ranks for ties.
+3,"Compute four Spearman correlations with tD1; contrast delta=rho(tD1,A)-rho(tD1,B)."
+4,"Independently resample whole cells with replacement within each group, retaining its original size; reuse the SAME tD1 sample for all four correlations in each replicate."
+5,"Recompute means, ranks, correlations and all six contrasts in each replicate."
+6,"95% percentile CI = quantile(delta_star,[0.025,0.975])."
+7,Approximate null = delta_star - observed_delta. Two-sided p=(1+count(abs(null)>=abs(observed_delta)))/(B+1).
+8,Report unadjusted p primarily; Holm-adjusted p also provided for the family of six comparisons.
+9,Cell-exchangeability assumption; conditional on fixed imputed values. Spatial dependence and imputation uncertainty are not propagated. Not animal-level inference.

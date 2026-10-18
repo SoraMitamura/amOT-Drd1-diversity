@@ -1,0 +1,521 @@
+{
+  "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+  "total": 62,
+  "available": 41,
+  "missing": 20,
+  "source": "m5.go.bp.v2026.1.Mm.symbols.gmt",
+  "source_sha256": "fd720ba92a3131a1596409f4b642a1a5950392fa51b45055b810215082e6f0c1",
+  "records": [
+    {
+      "gene": "Ank3",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Ank3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Asic5",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Asic5",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Bbs10",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cacna1i",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Cacna1i",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Chrna1",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Chrna5",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Chrna5",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Chrna7",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Chrna7",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Chrnb2",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Chrnb4",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Chrnb4",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cntnap2",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Cntnap2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Dpp6",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Dpp6",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Drd1",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "Drd1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": true
+    },
+    {
+      "gene": "Fgf12",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Fgf12",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Fmr1",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gba1",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gper1",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gpr35",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Gpr35",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gpr88",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Gpr88",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gprin3",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Gprin3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gria1",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Gria1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Grik2",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Grik2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Hcn1",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Hcn1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ifng",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Kcna1",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Kcna1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Kcna2",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Kcna2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Kcnc4",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Kcnc4",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Kcnd2",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Kcnd2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Kcnk2",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Kcnk2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Kcnk4",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Kcnma1",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Kcnma1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Kcnmb2",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Kcnmb2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Kcnmb3",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Kcnmb4",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Kcnmb4",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Kcnq2",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Kcnq3",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Kcnq3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Lichi",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mtnr1b",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mtor",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Myh14",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Myh14",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Nalf1",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Npr2",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "P2rx1",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "P2rx2",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "P2rx2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "P2rx3",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "P2rx4",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "P2rx4",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "P2rx7",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "P2rx7",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Pawr",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Pawr",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Pmp22",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Pmp22",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Rapgef4",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Rapgef4",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Scn10a",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Scn10a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Scn11a",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Scn11a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Scn1a",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Scn1a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Scn2a",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Scn2a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Scn3a",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Scn3a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Scn4a",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Scn4b",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Scn4b",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Scn5a",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Scn5a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Scn8a",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Scn8a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Scn9a",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Scn9a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Slco1b2",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sod1",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Trpa1",
+      "category": "GOBP_NEURONAL_ACTION_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Trpa1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    }
+  ],
+  "exclusion_panel": [
+    "Drd1",
+    "Tac1",
+    "Pdyn",
+    "Drd2",
+    "Adora2a",
+    "Penk",
+    "Gpr6",
+    "Gpr52",
+    "Sp9"
+  ],
+  "excluded_markers": [
+    "Drd1"
+  ],
+  "before_exclusion": 42
+}

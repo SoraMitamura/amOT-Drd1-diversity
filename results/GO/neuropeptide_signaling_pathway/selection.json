@@ -1,0 +1,963 @@
+{
+  "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+  "total": 117,
+  "available": 86,
+  "missing": 28,
+  "source": "m5.go.bp.v2026.1.Mm.symbols.gmt",
+  "source_sha256": "fd720ba92a3131a1596409f4b642a1a5950392fa51b45055b810215082e6f0c1",
+  "records": [
+    {
+      "gene": "Adcyap1",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Adcyap1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Agrp",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Agrp",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Brs3",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Brs3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Calca",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Calca",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cartpt",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Cartpt",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cckbr",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Cckbr",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cmklr2",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cort",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Cort",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Crcp",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Crhr1",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Crhr1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cysltr1",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cysltr2",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Cysltr2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ecel1",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Ecel1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ecrg4",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Ecrg4",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gal",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Gal",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Galp",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Galr1",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Galr1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Galr2",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Galr3",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gipr",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Gipr",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Glp1r",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Glp1r",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Glra1",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Glra1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Glra2",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Glra2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Glrb",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Glrb",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gnaq",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gpr139",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Gpr139",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gpr143",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gpr149",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Gpr149",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gpr165",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Gpr165",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gpr171",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gpr37",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Gpr37",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gpr83",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Gpr83",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gpr84",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Grp",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Grp",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Grpr",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Grpr",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Hcrt",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Hcrt",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Hcrtr1",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Hcrtr1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Hcrtr2",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Hcrtr2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Kiss1r",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ltb4r1",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ltb4r2",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mc1r",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mc2r",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mc3r",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Mc3r",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mc4r",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Mc4r",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mc5r",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Mc5r",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mchr1",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mrgpra1",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mrgpra4",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Nmb",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Nmb",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Nmbr",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Nmbr",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Nms",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Nms",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Nmu",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Nmu",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Nmur1",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Nmur2",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Nmur2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Npb",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Npb",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Npbwr1",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Npbwr1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Npff",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Npff",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Npffr1",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Npffr1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Npffr2",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Npffr2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Nppa",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Nppa",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Nppb",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Nppb",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Npr3",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Npr3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Nps",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Nps",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Npsr1",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Npsr1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Npvf",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Npvf",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Npw",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Npw",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Npy",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Npy",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Npy1r",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Npy1r",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Npy2r",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Npy2r",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Npy4r",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Npy4r",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Npy5r",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Npy5r",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Npy6r",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Nts",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Nts",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ntsr1",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Ntsr1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ntsr2",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Ntsr2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Oprd1",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Oprd1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Oprk1",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Oprk1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Oprl1",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Oprl1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Oprm1",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Oprm1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Pcsk1n",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Pcsk1n",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Pdyn",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": false,
+      "expression_column": "Pdyn",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": true
+    },
+    {
+      "gene": "Penk",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": false,
+      "expression_column": "Penk",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": true
+    },
+    {
+      "gene": "Pgr15l",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Pgr15l",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Pmch",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Pmch",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Pnoc",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Pnoc",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Pomc",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Pomc",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ppy",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Prlhr",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Prok2",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Prok2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Prokr1",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Prokr1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Prokr2",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Prokr2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ptgdr2",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Pth2",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Pth2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Pyy",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Pyy",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Qrfp",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Qrfp",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Qrfpr",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Qrfpr",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Qrfprl",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Qrfprl",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Rapgef2",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Rela",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Rxfp3",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Rxfp3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Rxfp4",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Scg5",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Scg5",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sorl1",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Sorl1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sort1",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Sort1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sstr1",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Sstr1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sstr2",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Sstr2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sstr3",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Sstr3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sstr4",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sstr5",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Sstr5",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Tac1",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": false,
+      "expression_column": "Tac1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": true
+    },
+    {
+      "gene": "Tac2",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Tac2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Tenm1",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Tenm1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Tyro3",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Tyro3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ucn",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Ucn",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ucn3",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Ucn3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Uts2r",
+      "category": "GOBP_NEUROPEPTIDE_SIGNALING_PATHWAY",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    }
+  ],
+  "exclusion_panel": [
+    "Drd1",
+    "Tac1",
+    "Pdyn",
+    "Drd2",
+    "Adora2a",
+    "Penk",
+    "Gpr6",
+    "Gpr52",
+    "Sp9"
+  ],
+  "excluded_markers": [
+    "Pdyn",
+    "Penk",
+    "Tac1"
+  ],
+  "before_exclusion": 89
+}

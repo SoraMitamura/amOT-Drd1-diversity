@@ -1,0 +1,1521 @@
+{
+  "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+  "total": 187,
+  "available": 144,
+  "missing": 42,
+  "source": "m5.go.bp.v2026.1.Mm.symbols.gmt",
+  "source_sha256": "fd720ba92a3131a1596409f4b642a1a5950392fa51b45055b810215082e6f0c1",
+  "records": [
+    {
+      "gene": "Abat",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Abat",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Adcyap1",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Adcyap1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Adora1",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Adora1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Adora2a",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "Adora2a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": true
+    },
+    {
+      "gene": "Adrb1",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Adrb1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Adrb2",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Afdn",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Afdn",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ano6",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Ano6",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "App",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "App",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Atxn1",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Atxn1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Baiap2",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Baiap2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Bdnf",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Bdnf",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Begain",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Begain",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cacnb3",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Cacnb3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cbln1",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Cbln1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cdk5",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Celf4",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Celf4",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Chrm1",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Chrm1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Chrm5",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Chrm5",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Chrna1",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Chrna10",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Chrna10",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Chrna2",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Chrna2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Chrna3",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Chrna3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Chrna4",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Chrna4",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Chrna5",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Chrna5",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Chrna6",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Chrna6",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Chrna7",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Chrna7",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Chrna9",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Chrnb1",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Chrnb2",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Chrnb3",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Chrnb3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Chrnb4",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Chrnb4",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Chrnd",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Chrne",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Chrne",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Chrng",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ckap5",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cntnap2",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Cntnap2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Crh",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Crh",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cux2",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Cux2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cx3cl1",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Cx3cl1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Dbn1",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Dgki",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Dgki",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Dlg4",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Dmpk",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Dpp6",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Dpp6",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Drd4",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Dvl1",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Eif4a3",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Eif4a3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Eif4a3l1",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Eif4a3l2",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Elovl4",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Erbb4",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Erbb4",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Fgf14",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Fgf14",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Fmr1",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gabbr1",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Gabbr1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gabra1",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Gabra1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gabra2",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Gabra2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gabra3",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Gabra3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gabra4",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Gabra4",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gabra5",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Gabra5",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gabra6",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Gabra6",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gabrb1",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Gabrb1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gabrb2",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Gabrb2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gabrb3",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Gabrb3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gabrd",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Gabrd",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gabre",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Gabre",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gabrg2",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Gabrg2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gabrg3",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Gabrg3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gabrr2",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Gabrr2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ghrl",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Glra1",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Glra1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Glra2",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Glra2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Glra3",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Glra3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Glra4",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Glra4",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Glrb",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Glrb",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gria1",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Gria1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gria2",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Gria2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gria3",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Gria3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gria4",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Gria4",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Grid1",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Grid1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Grid2",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Grid2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Grik1",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Grik1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Grik2",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Grik2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Grik3",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Grik3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Grik4",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Grik4",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Grik5",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Grin1",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Grin1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Grin2a",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Grin2a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Grin2b",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Grin2b",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Grin2c",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Grin2c",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Grin2d",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Grin2d",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Grin3a",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Grin3a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Grin3b",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Grip1",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Grip1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Grip2",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Grip2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Grk2",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Grm1",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Grm1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Grm5",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Grm5",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gsk3b",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Hcn1",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Hcn1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Hcrt",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Hcrt",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Htr3a",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Htr3a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Htr3b",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Htr3b",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Igsf11",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Igsf11",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Igsf9b",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Igsf9b",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Insyn1",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Insyn1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Insyn2a",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Insyn2a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Kcna1",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Kcna1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Kcna2",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Kcna2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Kcnc4",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Kcnc4",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Kcnd2",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Kcnd2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Kcnk1",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Kcnk1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Kcnt1",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Kcnt1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Kctd12",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Kctd12",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Kctd16",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Kctd16",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Lrrk2",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Lrrk2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mapk8ip2",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mecp2",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mef2c",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Mef2c",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Met",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Met",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mpp2",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mtmr2",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Neto1",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Neto1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ngfr",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Ngfr",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Nlgn1",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Nlgn1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Nlgn2",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Nlgn3",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Nlgn3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Nlgn4l",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Nos1",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Nos1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Npas4",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Npas4",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Npff",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Npff",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Npy2r",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Npy2r",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Nr3c2",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Nr3c2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Nrxn1",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Nrxn1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Nsf",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Nsf",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ntrk2",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Ntrk2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ntsr1",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Ntsr1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Oprm1",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Oprm1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "P2rx1",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "P2rx2",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "P2rx2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "P2rx3",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "P2rx4",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "P2rx4",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "P2rx5",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "P2rx5",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "P2rx6",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "P2rx7",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "P2rx7",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Pclo",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Pclo",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Plk2",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Plk2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Pnoc",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Pnoc",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ppp1r9a",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Ppp1r9a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ppp3ca",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Ppp3ca",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Prkar1b",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Prkar1b",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Prkcz",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Prkn",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Prkn",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Pten",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Pten",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ptk2b",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Ptk2b",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Rab3gap1",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Reln",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Reln",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Rgs4",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Rgs4",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Rgs7",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Rgs7",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Rgs7bp",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Rgs7bp",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Rims1",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Rims1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Rims2",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Rims2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "S1pr2",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sez6",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Sez6",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sh3gl1",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Shank1",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Shank1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Shank3",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Slc17a7",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Slc17a7",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Slc1a7",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Slc29a1",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Slc29a1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Slc8a2",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Slc8a2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Slc8a3",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Slc8a3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Snca",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Snca",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ssh1",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Stx1a",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Stx1a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Stx1b",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Stx1b",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sv2a",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Sv2a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sv2c",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Sv2c",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Syne1",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Syne1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Syt1",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Syt1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Tbc1d24",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Tmem108",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Tmem108",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Tmem25",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Tmem25",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Trpv1",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Unc13b",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Unc13b",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Wnt7a",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": true,
+      "expression_column": "Wnt7a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Zmynd8",
+      "category": "GOBP_REGULATION_OF_POSTSYNAPTIC_MEMBRANE_POTENTIAL",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    }
+  ],
+  "exclusion_panel": [
+    "Drd1",
+    "Tac1",
+    "Pdyn",
+    "Drd2",
+    "Adora2a",
+    "Penk",
+    "Gpr6",
+    "Gpr52",
+    "Sp9"
+  ],
+  "excluded_markers": [
+    "Adora2a"
+  ],
+  "before_exclusion": 145
+}

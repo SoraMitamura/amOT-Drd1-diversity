@@ -1,0 +1,2743 @@
+{
+  "category": "GOBP_DENDRITE_DEVELOPMENT",
+  "total": 340,
+  "available": 204,
+  "missing": 136,
+  "source": "m5.go.bp.v2026.1.Mm.symbols.gmt",
+  "source_sha256": "fd720ba92a3131a1596409f4b642a1a5950392fa51b45055b810215082e6f0c1",
+  "records": [
+    {
+      "gene": "Abi1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Abi1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Abi2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Abi2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Abi3",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Abi3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Abi3bp",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Abi3bp",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Abitram",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Abl1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Abl2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ache",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Ache",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Acsl4",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Actl6b",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Actr2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Actr3",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Adam10",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Adgrb3",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Adgrb3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Afdn",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Afdn",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Akap5",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Akap5",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Alk",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Alk",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Anapc2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ankrd27",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Apoe",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Apoe",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "App",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "App",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Arc",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Arc",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Arf1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Arf4",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Arf6",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Arhgap32",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Arhgap32",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Arhgap33",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Arhgap44",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Arhgap44",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Arid1b",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Asap1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Asap1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Atg16l1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Atg7",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Atp7a",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Atp7a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Baiap2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Baiap2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Bbs1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Bbs4",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Bcas2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Bcl11a",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Bcl11a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Bdnf",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Bdnf",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Bhlhb9",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Bmp5",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Bmp5",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Bmp7",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Bmp7",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Btbd3",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Btbd3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cacna1a",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Cacna1a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cacna1f",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Camk1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Camk1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Camk1d",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Camk1d",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Camk2a",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Camk2a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Camk2b",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Camk2b",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Camsap2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Caprin1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Caprin2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Caprin2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Caps2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Caps2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Carm1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cask",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Cask",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cc2d1a",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cd3e",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Cd3e",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cdc20",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Cdc20",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cdc42",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cdk5",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cdk5r1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Cdk5r1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cdkl3",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Cdkl3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cdkl5",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Cdkl5",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Celsr2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cfl1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Chat",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Chat",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Chrna3",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Chrna3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Chrna7",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Chrna7",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Chrnb2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cit",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Cit",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Clip1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cntnap2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Cntnap2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cobl",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Cobl",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cpeb3",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Crebbp",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Crk",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Crkl",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Crp",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Crtc1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Csmd3",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Csmd3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ctnna2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Ctnna2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ctnnb1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Ctnnb1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ctnnd2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Ctnnd2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cul7",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cux1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Cux1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cux2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Cux2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cyfip1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Cyfip1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cyth2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Cyth2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "D130043K22Rik",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "D130043K22Rik",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "D16Ertd472e",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "D16Ertd472e",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Dab1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Dab1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Dab2ip",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Dab2ip",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Dact1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Dact1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Dbn1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Dbnl",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Dcdc2a",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Dcdc2a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Dclk1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Dclk1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Dcx",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Dcx",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Dgkg",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Dgkg",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Dhx36",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Dip2a",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Dip2a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Disc1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Disc1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Dlg4",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Dlg5",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Dlg5",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Dnm1l",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Dnm3",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Dnm3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Dock10",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Dock10",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Dpysl5",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Dpysl5",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Dscam",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Dscam",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Dtnbp1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Dtnbp1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Dvl1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Eef2k",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Efhc2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Efhc2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Efna1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Eif4g2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Elavl4",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Elavl4",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Epha4",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Epha4",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Epha5",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Epha5",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ephb1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Ephb1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ephb2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Ephb2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ephb3",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ezh2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Ezh2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Farp1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Farp1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Fas",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Fat3",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Fat3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Fbxo31",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Fbxw8",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Fcgr2b",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Fcgr2b",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Fezf2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Fezf2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Flrt1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Flrt1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Fmn1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Fmn1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Fmr1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Foxo6",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Foxo6",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Fstl4",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Fstl4",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Fyn",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Fyn",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Fzd4",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Fzd4",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gabrb3",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Gabrb3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ghrl",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Git1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gorasp1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gpr37",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Gpr37",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gpx4",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Grin1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Grin1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Grin3a",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Grin3a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Grip1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Grip1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Grm5",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Grm5",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Grn",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Grn",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gsk3a",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gsk3b",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Hdac2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Hdac6",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Hecw1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Hecw1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Hecw2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Hecw2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Hprt1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Id1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Id1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Igf2bp1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Igsf9",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Igsf9",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Il1rapl1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Il1rapl1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Il2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ilk",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Iqgap1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Iqgap1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Iqsec1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Iqsec1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Itgb1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Itpka",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Itpka",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Itsn1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Itsn1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Kalrn",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Kalrn",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Khdc3",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Kidins220",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Kif1a",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Klf7",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Klf7",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Klhl1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Klhl1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Kndc1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Kndc1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Llph",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Llph",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Lpar1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Lpar1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Lrp4",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Lrp4",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Lrp8",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Lrp8",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Lrrk2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Lrrk2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Lst1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Lst1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Lzts1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Lzts1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Lzts3",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Map1a",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Map1a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Map1b",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Map1b",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Map1s",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Map2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Map2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Map6",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Map6",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mapk6",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Mapk6",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mapk8",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Mapk8",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mapk8ip2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mapkapk5",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mapre3",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Marcks",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Marcks",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mark1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Mark1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Matn2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Matn2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mcf2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Mcf2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mecp2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mef2a",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mef2c",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Mef2c",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Met",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Met",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mfn1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mfn2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mfsd2a",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Mfsd2a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mgarp",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Mgarp",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mink1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mir132",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mir212",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mpdz",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Mpdz",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mtor",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Myo5b",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Myo5b",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Myo6",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Myo6",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Nck2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Nck2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ndp",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Ndp",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Nedd4",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Nedd4",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Nedd4l",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Nedd4l",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Neurl1a",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Neurl1a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Neurog3",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Nfatc4",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ngef",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Ngef",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ngfr",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Ngfr",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Nlgn1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Nlgn1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Nlgn2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Nlgn3",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Nlgn3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Nr2e1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Nr2e1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Nr3c1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Nr3c1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Nrp1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Nrp1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Nsmf",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Nsmf",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ntn1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Ntn1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ntn3",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ntn5",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Ntn5",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ntrk2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Ntrk2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Numb",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Numb",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Numbl",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Obsl1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Opa1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Pacsin1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Pacsin1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Pafah1b1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Pak1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Pak1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Pak2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Pak3",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Pak3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Pak4",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Pak4",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Palm",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Parp6",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Pbrm1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Pdlim5",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Pdlim5",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Phactr1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Phactr1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Pias2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Picalm",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Plk2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Plk2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ppfia2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Ppfia2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ppp1r9a",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Ppp1r9a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ppp1r9b",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Ppp1r9b",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ppp3ca",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Ppp3ca",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Pqbp1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Pqbp1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Prex1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Prex1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Prex2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Prex2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Prickle1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Prickle1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Prkg1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Prkg1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Prmt3",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Psen1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Pten",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Pten",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ptn",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Ptn",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ptprd",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Ptprd",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ptprf",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Ptprf",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ptprs",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Ptprs",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ptprz1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Ptprz1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Rab17",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Rab21",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Rac1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Rap2a",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Rap2a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Rapgef2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Rapgef4",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Rapgef4",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Rbfox2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Reln",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Reln",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Rere",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Rhoa",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Robo1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Robo1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Rock2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Rtn4ip1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sarm1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Scarf1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sdc2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Sdc2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sdk1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Sdk1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sema3a",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Sema3a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sema4d",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Sema4d",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Septin7",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sez6",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Sez6",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sgk1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Sgk1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sh3glb1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Shank1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Shank1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Shank3",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sipa1l1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Sipa1l1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Skor2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Skor2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Slc11a2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Slc11a2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Slc12a5",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Slc12a5",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Slc25a46",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Slc30a1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Slc9a6",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Slitrk5",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Slitrk5",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Smad3",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Smad3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Spire1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Srcin1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Srcin1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Srgap2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Srgap2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ss18l1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Stau2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Stk11",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Strn",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sult4a1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Sult4a1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Syne1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Syne1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Syngap1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Tanc2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Tanc2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Taok2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Tbc1d24",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Tet1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Tet1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Tiam1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Tiam1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Tlx2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Tmem106b",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Tnik",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Tnik",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Tpbg",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Tpbg",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Trak1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Trak2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Trappc4",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Trpc5",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Trpc5",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Trpc6",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Trpc6",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Tsc2",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Tulp1",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Tulp1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Uba6",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ube3a",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ulk4",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Ulk4",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Vldlr",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Vldlr",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Wasl",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Wls",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Wls",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Wnt5a",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Wnt5a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Wnt7a",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Wnt7a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Xlr3b",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Xlr3b",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Xlr4b",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ywhah",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Ywhah",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Zdhhc15",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Zdhhc15",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Zfp212",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Zfp296",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Zfp365",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": true,
+      "expression_column": "Zfp365",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Zmynd8",
+      "category": "GOBP_DENDRITE_DEVELOPMENT",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    }
+  ],
+  "exclusion_panel": [
+    "Drd1",
+    "Tac1",
+    "Pdyn",
+    "Drd2",
+    "Adora2a",
+    "Penk",
+    "Gpr6",
+    "Gpr52",
+    "Sp9"
+  ],
+  "excluded_markers": [],
+  "before_exclusion": 204
+}

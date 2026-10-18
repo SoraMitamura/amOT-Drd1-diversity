@@ -1,0 +1,295 @@
+{
+  "category": "GOBP_GAMMA_AMINOBUTYRIC_ACID_SIGNALING_PATHWAY",
+  "total": 34,
+  "available": 33,
+  "missing": 1,
+  "source": "m5.go.bp.v2026.1.Mm.symbols.gmt",
+  "source_sha256": "fd720ba92a3131a1596409f4b642a1a5950392fa51b45055b810215082e6f0c1",
+  "records": [
+    {
+      "gene": "Atf4",
+      "category": "GOBP_GAMMA_AMINOBUTYRIC_ACID_SIGNALING_PATHWAY",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Atp1a3",
+      "category": "GOBP_GAMMA_AMINOBUTYRIC_ACID_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Atp1a3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Bdnf",
+      "category": "GOBP_GAMMA_AMINOBUTYRIC_ACID_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Bdnf",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cacna1a",
+      "category": "GOBP_GAMMA_AMINOBUTYRIC_ACID_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Cacna1a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cacnb4",
+      "category": "GOBP_GAMMA_AMINOBUTYRIC_ACID_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Cacnb4",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cit",
+      "category": "GOBP_GAMMA_AMINOBUTYRIC_ACID_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Cit",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gabbr1",
+      "category": "GOBP_GAMMA_AMINOBUTYRIC_ACID_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Gabbr1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gabbr2",
+      "category": "GOBP_GAMMA_AMINOBUTYRIC_ACID_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Gabbr2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gabra1",
+      "category": "GOBP_GAMMA_AMINOBUTYRIC_ACID_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Gabra1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gabra2",
+      "category": "GOBP_GAMMA_AMINOBUTYRIC_ACID_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Gabra2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gabra3",
+      "category": "GOBP_GAMMA_AMINOBUTYRIC_ACID_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Gabra3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gabra4",
+      "category": "GOBP_GAMMA_AMINOBUTYRIC_ACID_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Gabra4",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gabra5",
+      "category": "GOBP_GAMMA_AMINOBUTYRIC_ACID_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Gabra5",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gabra6",
+      "category": "GOBP_GAMMA_AMINOBUTYRIC_ACID_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Gabra6",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gabrb1",
+      "category": "GOBP_GAMMA_AMINOBUTYRIC_ACID_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Gabrb1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gabrb2",
+      "category": "GOBP_GAMMA_AMINOBUTYRIC_ACID_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Gabrb2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gabrb3",
+      "category": "GOBP_GAMMA_AMINOBUTYRIC_ACID_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Gabrb3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gabrd",
+      "category": "GOBP_GAMMA_AMINOBUTYRIC_ACID_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Gabrd",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gabre",
+      "category": "GOBP_GAMMA_AMINOBUTYRIC_ACID_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Gabre",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gabrg1",
+      "category": "GOBP_GAMMA_AMINOBUTYRIC_ACID_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Gabrg1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gabrg2",
+      "category": "GOBP_GAMMA_AMINOBUTYRIC_ACID_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Gabrg2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gabrg3",
+      "category": "GOBP_GAMMA_AMINOBUTYRIC_ACID_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Gabrg3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gabrq",
+      "category": "GOBP_GAMMA_AMINOBUTYRIC_ACID_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Gabrq",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gabrr2",
+      "category": "GOBP_GAMMA_AMINOBUTYRIC_ACID_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Gabrr2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gnai2",
+      "category": "GOBP_GAMMA_AMINOBUTYRIC_ACID_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Gnai2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gpr156",
+      "category": "GOBP_GAMMA_AMINOBUTYRIC_ACID_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Gpr156",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Htr1a",
+      "category": "GOBP_GAMMA_AMINOBUTYRIC_ACID_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Htr1a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Htr4",
+      "category": "GOBP_GAMMA_AMINOBUTYRIC_ACID_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Htr4",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Phf24",
+      "category": "GOBP_GAMMA_AMINOBUTYRIC_ACID_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Phf24",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Pianp",
+      "category": "GOBP_GAMMA_AMINOBUTYRIC_ACID_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Pianp",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Plcl1",
+      "category": "GOBP_GAMMA_AMINOBUTYRIC_ACID_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Plcl1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Plcl2",
+      "category": "GOBP_GAMMA_AMINOBUTYRIC_ACID_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Plcl2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Shisa7",
+      "category": "GOBP_GAMMA_AMINOBUTYRIC_ACID_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Shisa7",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Slc12a2",
+      "category": "GOBP_GAMMA_AMINOBUTYRIC_ACID_SIGNALING_PATHWAY",
+      "in_expression_panel": true,
+      "expression_column": "Slc12a2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    }
+  ],
+  "exclusion_panel": [
+    "Drd1",
+    "Tac1",
+    "Pdyn",
+    "Drd2",
+    "Adora2a",
+    "Penk",
+    "Gpr6",
+    "Gpr52",
+    "Sp9"
+  ],
+  "excluded_markers": [],
+  "before_exclusion": 33
+}

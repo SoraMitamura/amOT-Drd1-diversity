@@ -1,0 +1,2147 @@
+{
+  "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+  "source": "m5.go.bp.v2026.1.Mm.symbols.gmt",
+  "source_sha256": "fd720ba92a3131a1596409f4b642a1a5950392fa51b45055b810215082e6f0c1",
+  "category_url": "https://www.gsea-msigdb.org/gsea/msigdb/mouse/geneset/GOBP_NEURON_PROJECTION_GUIDANCE",
+  "panel_source": "gene_means_and_ranks.csv",
+  "panel_sha256": "d0d85bff8fff183924c9f7dbf1d71930d6bda7e2e9282abbcbfdcd91e639e22b",
+  "total": 265,
+  "available": 196,
+  "missing": 69,
+  "matching": "Exact case-sensitive symbols after existing MATLAB column-name normalization; no alias substitution.",
+  "records": [
+    {
+      "gene": "Ablim1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Ablim1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Adam17",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Agrn",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Alcam",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Alcam",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Alkal2",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Alkal2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ank3",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Ank3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Apbb1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Apbb2",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Apbb2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "App",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "App",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Arhgap35",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Arhgef25",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Arhgef25",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ark2c",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Artn",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Arx",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Arx",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Atoh1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Atoh1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Atoh7",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Atoh7",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "B4gat1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Bcl11b",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Bcl11b",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Bdnf",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Bdnf",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Bmp7",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Bmp7",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Bmpr1b",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Bmpr1b",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Bmpr2",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Boc",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Boc",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Bsg",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Bsg",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cdh4",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Cdh4",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cdk5",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cdk5r1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Cdk5r1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cdk5r2",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Cdk5r2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Celsr3",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Celsr3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Chl1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Chl1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Chn1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Chn1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cntn1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Cntn1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cntn2",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Cntn2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cntn5",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Cntn5",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cntn6",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Cntn6",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Crppa",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Csf1r",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Csf1r",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cxcl12",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Cxcl12",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cxcr4",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Cxcr4",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cyfip1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Cyfip1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Cyfip2",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Cyfip2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Dag1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Dcc",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Dcc",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Diaph1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Diaph2",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Diaph2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Dlx5",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Dlx5",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Dpysl5",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Dpysl5",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Draxin",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Draxin",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Drgx",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Dscam",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Dscam",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Dscaml1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Dscaml1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Dvl1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ece1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Ece1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Edn1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Edn1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Edn3",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Edn3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ednra",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Ednra",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Efna1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Efna2",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Efna2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Efna3",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Efna3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Efna4",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Efna5",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Efna5",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Efnb1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Efnb1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Efnb2",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Efnb2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Efnb3",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Efnb3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Egr2",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Egr2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Emb",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Emb",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Enah",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Enah",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Epha10",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Epha10",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Epha3",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Epha3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Epha4",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Epha4",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Epha5",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Epha5",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Epha6",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Epha6",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Epha7",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Epha7",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Epha8",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Epha8",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ephb1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Ephb1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ephb2",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Ephb2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ephb3",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ephb6",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Ephb6",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Erbb2",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Etv1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Etv1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Etv4",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Etv4",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Evl",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Evx1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Evx1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ext1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Ext1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Fezf1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Fezf1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Fezf2",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Fezf2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Fgf8",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Fgf8",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Flot1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Flot1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Flrt2",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Flrt2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Flrt3",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Flrt3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Foxd1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Foxd1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Foxg1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Foxg1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Foxp1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Foxp1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Fzd3",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gap43",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Gap43",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gas1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Gas1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gata3",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Gata3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gbx1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Gbx1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gbx2",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Gbx2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gdf7",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gdnf",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Gdnf",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gfra3",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gli2",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Gli2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Gli3",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Gli3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Hdac6",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Hmcn2",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Hmcn2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Hoxa1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Hoxa2",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Igfals",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Isl1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Isl1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Isl2",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Kalrn",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Kalrn",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Kif21a",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Kif21a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Kif5a",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Kif5a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Kif5b",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Kif5c",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Kif5c",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Kifc2",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Kifc2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Klf7",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Klf7",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "L1cam",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "L1cam",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Lama1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Lama1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Lama2",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Lama2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Lama3",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Lama3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Lama5",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Lamb1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Lamb1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Lamb2",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Lamb3",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Lamb3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Lamc1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Lamc1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Lamc2",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Lamc2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Lamc3",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Lamc3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Lgi1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Lgi1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Lgr4",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Lgr4",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Lhx1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Lhx1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Lhx2",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Lhx2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Lhx3",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Lhx3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Lhx4",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Lhx4",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Lhx9",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Lhx9",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Lmo4",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Lmo4",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Lmtk2",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Lmx1a",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Lmx1a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Lrp1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Lrp1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Lrp2",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Lrp2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mapk8ip3",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Matn2",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Matn2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mef2c",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Mef2c",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Megf8",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Megf9",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Megf9",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mir200a",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mir200b",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mir200c",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mir376a",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mir9-1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mir9-2",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mir9-3",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mnx1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mycbp2",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Myh10",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Myot",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Mypn",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Mypn",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ncam1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Ncam1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ndp",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Ndp",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Nectin1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Nectin1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Nell2",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Nell2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Neo1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Neo1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Neurog2",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Neurog2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Nexn",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Nexn",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Nfasc",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Nfasc",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Nfib",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Nfib",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ngfr",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Ngfr",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Nkx2-1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Nkx2-1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Nog",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Nog",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Notch1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Notch1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Notch3",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Notch3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Nova2",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Nptn",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Nr4a3",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Nr4a3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Nrcam",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Nrcam",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Nrp1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Nrp1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Nrp2",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Nrp2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ntf3",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Ntf3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ntn1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Ntn1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ntn3",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ntn4",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Ntn4",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ntn5",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Ntn5",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ntrk1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Ntrk1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Or10a4",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Or8a1b",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Otx2",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Otx2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Palld",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Palld",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Pax6",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Pax6",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Pcdhac2",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Pgrmc1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Pgrmc1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Pla2g10",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Plxna1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Plxna1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Plxna3",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Plxna4",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Plxna4",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Pou4f2",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Pou4f2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Pou4f3",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Pou4f3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Prtg",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Prtg",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ptch1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Ptch1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ptprh",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ptprj",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Ptprj",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ptprm",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Ptprm",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ptpro",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Ptpro",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ptprv",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Rac1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Rac3",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Rac3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Reln",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Reln",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Robo1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Robo1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Robo2",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Robo2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Robo3",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Robo3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Rpl24",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Rtn4r",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Rtn4r",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Rtn4rl1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Rtn4rl1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Runx3",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ryk",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Scn1b",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Scn1b",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sema3a",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Sema3a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sema3b",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Sema3b",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sema3c",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Sema3c",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sema3d",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Sema3d",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sema3e",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Sema3e",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sema3f",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Sema3f",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sema3g",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Sema3g",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sema4a",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Sema4a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sema4b",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sema4c",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sema4d",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Sema4d",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sema4f",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Sema4f",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sema4g",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Sema4g",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sema5a",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Sema5a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sema5b",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Sema5b",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sema6a",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Sema6a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sema6b",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sema6c",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Sema6c",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sema6d",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Sema6d",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Sema7a",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Sema7a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Shh",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Shh",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Slit1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Slit1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Slit2",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Slit2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Slit3",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Slit3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Smad4",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Smo",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Smo",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Tbr1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Tbr1",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Tgfb2",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Tgfb2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Trio",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Trio",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ttc8",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Ttc8",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Tubb2b",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Tubb2b",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Tubb3",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Tubb3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ulk1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ulk2",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Unc5a",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Unc5a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Unc5b",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Unc5b",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Unc5c",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Unc5c",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Unc5d",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Unc5d",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Usp33",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Vangl2",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Vangl2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Vasp",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Vax1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Vegfa",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Vegfa",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Wnt3",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Wnt3",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Wnt3a",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Wnt5a",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Wnt5a",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Wnt7b",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Wnt7b",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Ythdf1",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": false,
+      "expression_column": "",
+      "present_in_expression_panel": false,
+      "excluded_as_marker": false
+    },
+    {
+      "gene": "Zic2",
+      "category": "GOBP_NEURON_PROJECTION_GUIDANCE",
+      "in_expression_panel": true,
+      "expression_column": "Zic2",
+      "present_in_expression_panel": true,
+      "excluded_as_marker": false
+    }
+  ],
+  "exclusion_panel": [
+    "Drd1",
+    "Tac1",
+    "Pdyn",
+    "Drd2",
+    "Adora2a",
+    "Penk",
+    "Gpr6",
+    "Gpr52",
+    "Sp9"
+  ],
+  "excluded_markers": [],
+  "before_exclusion": 196
+}

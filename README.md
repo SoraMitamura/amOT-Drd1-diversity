@@ -16,7 +16,9 @@ Transcriptomic similarity to typical D1 MSNs (tD1) in **right amOT v3**, pooling
 - [Before/after marker exclusion](results/GO/before_after_correlations.csv)
 - [All-gene MDS code and outputs](mds)
 
-![All-gene contrasts](results/all_genes/all_six_correlation_tests.png)
+[Download the complete analysis, figures and bootstrap records (ZIP)](amOT-Drd1-diversity-analysis.zip)
+
+Extract this archive to use its complete directory structure. The repository also exposes code, selections, summary tables directly.
 
 Across 8,460 analyzed genes, observed similarity to tD1 is D2 (0.9821), Sema5a-D1 (0.9761), pDwarf Cell (0.9686), then ICj (0.8643). All six raw p-values reach the Monte Carlo resolution floor of 0.0001, not a true probability of zero.
 

@@ -1,0 +1,61 @@
+{
+  "sources": [
+    {
+      "group": "tD1",
+      "file": "c61_OT_R_amOT_v3.csv",
+      "n_cells": 912,
+      "sha256": "2833f7867de23c2c524663dfda20070462a458299e3c33ceff7aba1c36086aa7"
+    },
+    {
+      "group": "D2",
+      "file": "c62_OT_R_amOT_v3.csv",
+      "n_cells": 501,
+      "sha256": "d3c42b3db30fcdc35ee5bf3380fe85fb8fd9515c9f15c680f7adc8648ca1c483"
+    },
+    {
+      "group": "Sema5a-D1",
+      "file": "c63_OT_R_amOT_v3.csv",
+      "n_cells": 101,
+      "sha256": "04d939684118520f22d68b4f49f9bcfd9565e711e2c05a19924b62749a3bee29"
+    },
+    {
+      "group": "pDwarf Cell",
+      "file": "c264_OT_R_amOT_v3.csv",
+      "n_cells": 352,
+      "sha256": "6ee93455d56f841b225b64266d320f1beaef92f47a50c09adedf4cc1073073b2"
+    },
+    {
+      "group": "ICj",
+      "file": "c262_OT_R_amOT_v3.csv",
+      "n_cells": 468,
+      "sha256": "90aed45bc77d2679d54e6ab3b07892996b1bd0ff4dccc01d938bbbbde093feed"
+    }
+  ],
+  "genes": 204,
+  "seed": 20261017,
+  "resamples": 9999,
+  "batch_size": 64,
+  "anatomy": "right amOT v3, all sections pooled",
+  "n_specimens": 1,
+  "notes": "Exploratory centered cell bootstrap, not a label permutation test or animal-level test. Entire five-group bootstrap freshly rerun; Monte Carlo values can differ slightly from prior three-group runs.",
+  "category": "GOBP_DENDRITE_DEVELOPMENT",
+  "GO_total": 340,
+  "available_genes": 204,
+  "missing_genes": 136,
+  "excluded_markers": [],
+  "exclusion_panel": [
+    "Drd1",
+    "Tac1",
+    "Pdyn",
+    "Drd2",
+    "Adora2a",
+    "Penk",
+    "Gpr6",
+    "Gpr52",
+    "Sp9"
+  ],
+  "analysis": "Marker-excluded sensitivity analysis; original GO definition retained in source, analysis subset modified explicitly.",
+  "MDS_stress": 0.11229461655784671,
+  "MDS_seed": 0,
+  "MDS_n_init": 32
+}
