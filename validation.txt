@@ -1,0 +1,1 @@
+Validated 54 saved contrasts: percentile confidence intervals and centered-bootstrap tail p-values. Verified 8 GO selections exclude the stated marker panel. Python sources parse successfully. No new biological inference performed.
